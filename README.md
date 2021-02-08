@@ -2,7 +2,7 @@
 This is the first challenge of many that will be completed for University of Arizona Virtual Code Bootcamp. This is a project showing basic code refactoring of a pre-made website made using HTML and CSS.
 
 ## The Base Code
-The code started from a premade file which included HTML, CSS, and a few images. These made up the website
+The code started from a premade file which included HTML, CSS, and a few images. These make up the entirety of the website.
 
 ### Languages Used
 The project is done in both HTML and CSS.
